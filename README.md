@@ -1,6 +1,6 @@
 # Hi, I'm Nekro 👋
 
-I build software, web applications, bots, integrations and tools for game servers.
+I build software, web applications, bots, integrations and developer tools.
 
 Mostly interested in backend development, automation, networking and building systems that connect different services together.
 
